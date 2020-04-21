@@ -1,0 +1,246 @@
+[debug]: Init():イベント "AUOSETUP_EVENT_ABORT_11124"を監視開始
+[info ]: Aviutlフォルダ: "C:\Users\masho\Desktop\動画作成\aviutl110" にインストールします...
+[debug]: searchFileExceptInstallDir():[1]
+[debug]: C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx.auo
+[debug]: Init():auoSetup設定
+[debug]: auoSetup build     Oct  2 2019 21:14:29
+[debug]: OS Version:        Windows 10 x64 (0)
+[debug]: current dir:       C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup
+[debug]: clr ver (build):   v4.0.30319
+[debug]: clr ver (runtime): v4.0.30319
+[debug]: 
+[debug]: auoSetup:          C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup\auoSetup.exe
+[debug]: installName:       x264guiEx.auo
+[debug]: AviutlDir:         C:\Users\masho\Desktop\動画作成\aviutl110
+[debug]: bAviutlExists:     True
+[debug]: PluginsDir:        C:\Users\masho\Desktop\動画作成\aviutl110\Plugins
+[debug]: DownloadTmpDir:    C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup
+[debug]: bUpdateOverwrite:  False
+[debug]: bInstallX264:      True
+[debug]: nInstallX265:      0
+[debug]: bInstallNero:      False
+[debug]: bInstallQaac:      True
+[debug]: _appledll:         False
+[debug]: bInstallLsmash:    True
+[debug]: bInstallStg:       False
+[debug]: nInstallIni:       0
+[debug]: bInstallAuo:       False
+[debug]: autoRun:           True
+[debug]: autoUpdateIni:     False
+[debug]: autoUpdateStg:     False
+[debug]: updateOverwrite:   False
+[debug]: 
+[debug]: auoSetup Dir [C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup]
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup\auoSetup.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup\auoSetup_log_console_x264guiEx_2019.12.09.202313.txt
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup\auoSetup_log_console_x264guiEx_2020.04.08.100508.txt
+[debug]: 
+[debug]: AviutlDir [C:\Users\masho\Desktop\動画作成\aviutl110]
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\aviutl.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\aviutl.ini
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\aviutl.sav
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\aviutl.txt
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.anm
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.auf
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.aui
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.auo
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.cam
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.ini
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.obj
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.scn
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.tra
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exedit.txt
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\lua.txt
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\lua51.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\msvcp110.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\msvcr110.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\デフォルト.cfg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\デフォルト.sav
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2019-12-09_21-06-37.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2019-12-09_21-07-37.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2019-12-09_21-08-09.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2019-12-09_21-08-59.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2019-12-09_21-09-48.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2019-12-09_23-22-02.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2019-12-09_23-28-14.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2020-04-08_09-53-24.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2020-04-08_09-58-27.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\backup\2020-04-08_10-03-45.exedit_backup
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\ASL.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\boxdumper.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\CoreAudioToolbox.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\CoreFoundation.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\icudt62.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\libdispatch.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\libicuin.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\libicuuc.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\libsoxconvolver.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\libsoxr.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\msvcp100.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\msvcp140.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\msvcr100.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\muxer.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\objc.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\qaac.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\refalac.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\remuxer.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\timelineeditor.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\vcruntime140.dll
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2984_x64.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2984_x64_r2988.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2988_x64.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2988_x64_r2988.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\lwcolor.auc
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\lwdumper.auf
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\lwinput.aui
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\lwmuxer.auf
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\MotionTrackingMKI.auf
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx.auo
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx.conf
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx.ini
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\setup\setup\auoSetup.exe
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\setup\setup\auoSetup_log_console_x264guiEx_2019.12.09.202313.txt
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\setup\setup\auoSetup_log_console_x264guiEx_2020.04.08.100508.txt
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\PS3.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\PSP.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\twitter.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\x264 L-SMASH さんぷる.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\Xbox 360.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\youtube.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\アニメ (高圧縮).stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\アニメ (高画質).stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\バランス.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\高速.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\Bluray\Bluray (tff).stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\Bluray\Bluray.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\iPhone iPod iPad\iPhone3G, iPodtouch2-3.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\iPhone iPod iPad\iPhone4, iPad, iPodtouch4.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\iPhone iPod iPad\iPhone4S, iPad2.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\エコノミー回避\ニコ動 エコ回避 アニメ 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\エコノミー回避\ニコ動 エコ回避 アニメ.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\エコノミー回避\ニコ動 エコ回避 実写 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\エコノミー回避\ニコ動 エコ回避 実写.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\通常\ニコ動 アニメ 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\通常\ニコ動 アニメ.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\通常\ニコ動 実写 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動\通常\ニコ動 実写.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 (く) 2018\ニコ動  30分以下.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 (く) 2018\ニコ動 30分以上.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 (く) 2018\ニコ動 音質重視.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\エコノミー回避\ニコ動 プレミアム エコ回避 アニメ 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\エコノミー回避\ニコ動 プレミアム エコ回避 アニメ.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\エコノミー回避\ニコ動 プレミアム エコ回避 実写 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\エコノミー回避\ニコ動 プレミアム エコ回避 実写.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\短い動画(6分以下)\ニコ動 プレミアム 短い アニメ 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\短い動画(6分以下)\ニコ動 プレミアム 短い アニメ.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\短い動画(6分以下)\ニコ動 プレミアム 短い 実写 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\短い動画(6分以下)\ニコ動 プレミアム 短い 実写.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\長い動画(6分以上)\ニコ動 プレミアム 長い アニメ 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\長い動画(6分以上)\ニコ動 プレミアム 長い アニメ.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\長い動画(6分以上)\ニコ動 プレミアム 長い 実写 高画質.stg
+[debug]:   C:\Users\masho\Desktop\動画作成\aviutl110\Plugins\x264guiEx_stg\ニコ動 プレミアム\長い動画(6分以上)\ニコ動 プレミアム 長い 実写.stg
+[debug]: 
+[debug]: ex_stg
+[debug]:   s_x264.fullpath:                [file exists: yes]: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2984_x64_r2988.exe
+[debug]:   s_x264.fullpath_highbit:        [file exists: no ]: C:\Users\masho\Desktop\動画作成\aviutl110\
+[debug]:   s_aud[QAAC_IDX].fullpath:       [file exists: yes]: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\qaac.exe
+[debug]:   s_aud[REFALAC_IDX].fullpath:    [file exists: yes]: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\refalac.exe
+[debug]:   s_mux[MUXER_MP4].fullpath:      [file exists: yes]: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\remuxer.exe
+[debug]:   s_mux[MUXER_MP4_RAW].fullpath:  [file exists: yes]: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\muxer.exe
+[debug]:   s_mux[MUXER_TC2MP4].fullpath:   [file exists: yes]: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\timelineeditor.exe
+[debug]: Init():qtmode: QAAC_APPLEDLL_IN_EXEDIR
+[debug]: x264::init():
+[debug]:   aviutlDir:        C:\Users\masho\Desktop\動画作成\aviutl110
+[debug]:   pluginsDir:       C:\Users\masho\Desktop\動画作成\aviutl110\Plugins
+[debug]:   downloadTmpDir:   C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup
+[debug]:   bAviutlExists:    True
+[debug]:   bUpdateOverwrite: False
+[debug]: Init():installer->init() [x264]
+[debug]: qaac::init():
+[debug]:   aviutlDir:        C:\Users\masho\Desktop\動画作成\aviutl110
+[debug]:   pluginsDir:       C:\Users\masho\Desktop\動画作成\aviutl110\Plugins
+[debug]:   downloadTmpDir:   C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup
+[debug]:   bAviutlExists:    True
+[debug]:   bUpdateOverwrite: False
+[debug]: Init():installer->init() [qaac]
+[debug]: l-smash::init():
+[debug]:   aviutlDir:        C:\Users\masho\Desktop\動画作成\aviutl110
+[debug]:   pluginsDir:       C:\Users\masho\Desktop\動画作成\aviutl110\Plugins
+[debug]:   downloadTmpDir:   C:\Users\masho\Desktop\動画作成\aviutl110\plugins\setup\setup
+[debug]:   bAviutlExists:    True
+[debug]:   bUpdateOverwrite: False
+[debug]: Init():installer->init() [l-smash]
+[debug]: x264::check_only_all():
+[debug]: x264::check_set_param():
+[debug]: x264::check_set_param():currentFileFullPath: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2984_x64_r2988.exe
+[debug]: x264::check_set_param():latestCheckUrlList[1](id = 0, urlIdMapping = 1): https://onedrive.live.com/download?resid=6BDD4375AC8933C6!4484&authkey=!ABJHFkrCepS7euQ&ithint=file%2ctxt
+[debug]: x264::check_set_param():latestCheckUrlList[2](id = 1, urlIdMapping = 2): https://www.dropbox.com/s/430qrgxyiit3s0h/latest_build.txt?dl=1
+[debug]: x264::check_set_param():latestCheckUrlList[3](id = 2, urlIdMapping = 3): https://drive.google.com/uc?export=download&id=0BzA4dIFteM2dWUp0OE10ZXpYREU
+[debug]: x264::check_set_param():nInstall = True
+[debug]: x264::check():urlId: 0
+[debug]: x264::getMesBaseUrl():url[0]:https://onedrive.live.com/download?resid=6BDD4375AC8933C6!4484&authkey=!ABJHFkrCepS7euQ&ithint=file%2ctxt
+[debug]: x264::getMesBaseUrl():downloader.download(): status: RES_FIN
+[debug]: x264::getUrlVer():urlId: 0, urlText: 2988
+[info ]: x264のダウンロードリンクを取得完了
+[debug]: x264::getUrlVer():latestDownloadUrl: https://onedrive.live.com/download?resid=6BDD4375AC8933C6!4486&authkey=!AI0ggzXuP4DGYSQ&ithint=file%2czip
+[debug]: x264::getMesBaseUrl():getUrlVer(urlId = 0): latestVer: r2988
+[debug]: x264::check():bAviutlExists
+[debug]: x264::check_update():currentFileFullPath: "C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2984_x64_r2988.exe"
+[debug]: x264::getExeVer():
+[debug]: x264::getExeVer():currentFileFullPath = C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\x264_2984_x64_r2988.exe exists.
+[debug]: x264::getExeVer():get_exe_version_from_cmd(): success: rev 2984
+[info ]: x264を更新します。 r2984 → r2988
+[debug]: check():installer->check_only_all() [x264]: OK
+[debug]: qaac::check_only_all():
+[debug]: qaac::check_set_param():
+[debug]: qaac::check():urlId: 0
+[debug]: qaac::getMesBaseUrl():url[0]:https://sites.google.com/site/qaacpage/cabinet/
+[debug]: qaac::getMesBaseUrl():downloader.download(): status: RES_FIN
+[debug]: qaac::getUrlVer():findUrl: https://sites.google.com/site/qaacpage/cabinet/qaac_%{rev}.zip?attredirects=0&amp;d=1
+[debug]: qaac::getUrlVer():baseUrl: https://sites.google.com/site/qaacpage/cabinet/
+[debug]: qaac::getUrlVer():revString: 2.68
+[debug]: qaac::getUrlVer():revArray: 2.68
+[debug]: qaac::getMesBaseUrl():getUrlVer(urlId = 0): latestVer: 2.68
+[debug]: qaac::check():bAviutlExists
+[debug]: qaac::check_update():currentFileFullPath: "C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\qaac.exe"
+[debug]: qaac::getExeVer():currentFileFullPath = C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\qaac.exe exists.
+[debug]: qaac::getExeVer():get_exe_version_from_cmd(): success.
+[info ]: qaacの更新は必要ありません。 2.68
+[debug]: check():installer->check_only_all() [qaac]: OK
+[debug]: l-smash::check_only_all():
+[debug]: l-smash::check_set_param():
+[debug]: l-smash::check_set_param():currentFileFullPath: C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\remuxer.exe
+[debug]: l-smash::check_set_param():latestCheckUrlList[1](id = 0): https://onedrive.live.com/download?resid=6BDD4375AC8933C6!4437&authkey=!AMidqXDZOeJtv4g&ithint=file%2ctxt
+[debug]: l-smash::check_set_param():latestCheckUrlList[2](id = 1): https://www.dropbox.com/s/f7knxwnjvispv7i/latest_build.txt?dl=1
+[debug]: l-smash::check_set_param():latestCheckUrlList[3](id = 2): https://drive.google.com/uc?export=download&id=0BzA4dIFteM2dVHJDRk9rSlE1X0E
+[debug]: l-smash::check():urlId: 0
+[debug]: l-smash::getMesBaseUrl():url[0]:https://onedrive.live.com/download?resid=6BDD4375AC8933C6!4437&authkey=!AMidqXDZOeJtv4g&ithint=file%2ctxt
+[debug]: l-smash::getMesBaseUrl():downloader.download(): status: RES_FIN
+[error]: l-smashのバージョン情報が無効です。
+[debug]: l-smash::check():getMesBaseUrl(urlId = 0): false
+[info ]: l-smashのダウンロードを再試行しています(2/3)...
+[debug]: l-smash::check():urlId: 1
+[debug]: l-smash::getMesBaseUrl():url[1]:https://www.dropbox.com/s/f7knxwnjvispv7i/latest_build.txt?dl=1
+[error]: l-smashバージョン取得のダウンロードでエラーが発生しました。
+[error]: アドレス: https://www.dropbox.com/s/f7knxwnjvispv7i/latest_build.txt?dl=1
+[error]: HTTP response code said error
+[error]: ダウンロードできません。
+[debug]: l-smash::getMesBaseUrl():downloader.download(): status: RES_ERROR
+[debug]: l-smash::check():getMesBaseUrl(urlId = 1): false
+[info ]: l-smashのダウンロードを再試行しています(3/3)...
+[debug]: l-smash::check():urlId: 2
+[debug]: l-smash::getMesBaseUrl():url[2]:https://drive.google.com/uc?export=download&id=0BzA4dIFteM2dVHJDRk9rSlE1X0E
+[debug]: l-smash::getMesBaseUrl():downloader.download(): status: RES_FIN
+[debug]: l-smash::getUrlVer():urlId: 2, urlText: 1478 
+[debug]: l-smash::getUrlVer():latestDownloadUrl: https://drive.google.com/uc?export=download&id=0BzA4dIFteM2dTWtTWlFNd1E1QXc
+[debug]: l-smash::getMesBaseUrl():getUrlVer(urlId = 2): latestVer: r1478
+[debug]: l-smash::check():bAviutlExists
+[debug]: l-smash::check_update():currentFileFullPath: "C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\remuxer.exe"
+[debug]: l-smash::getExeVer():
+[debug]: l-smash::getExeVer():currentFileFullPath = C:\Users\masho\Desktop\動画作成\aviutl110\exe_files\remuxer.exe exists.
+[debug]: l-smash::getExeVer():get_exe_version_from_cmd(): success.
+[info ]: l-smashを更新します。 r1476 → r1478
+[debug]: check():installer->check_only_all() [l-smash]: OK
+[debug]: check():installer->check_only_all() [overall]: OK
+[debug]: abortRequired():no
